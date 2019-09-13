@@ -1,0 +1,135 @@
+/* CSS (Cascading Style Sheets) is used to decide HOW things on our webpage look like */
+
+/* Example Importing a google Font from https://fonts.google.com */
+/* @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap'); */
+
+
+@font-face {
+  font-family: 'ShadedLarch';
+  src: url('shadedLarch.ttf');
+}
+
+body {
+  /* font-family: 'Roboto', sans-serif; */
+  font-weight: 400;
+  color: #281B3A;
+}
+
+.full-width-container {
+  width: 100%;
+  height: 90%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+.background-darkblue {
+background-color: #281B3A;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+@media screen and (min-width: 601px) {
+  .background-darkblue p {
+    font-size: 30px;
+    margin-bottom: 0%;
+    
+    }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  .background-darkblue p {
+    font-size: 24px;
+    margin-bottom: 0%;
+    
+    
+    }
+}
+
+
+
+.background-grey {
+background-color: #D1D5D6;
+display: flex;
+justify-content: center;
+
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+#bridge {
+display: flex;
+justify-content: center;
+align-items: flex-end;
+background-image: url(images/bg-image.jpg);
+background-size: cover;
+background-position: bottom;
+height: 700px;
+
+
+}
+
+.bridge-button {
+  width: 300px;
+  height: 60px;
+  background-color: #D5958B;
+  color: #281B3A;
+  border: none;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+div.navbar-nav a {
+  margin: 0 15px;
+}
+
+.heading-speakers {
+  font-family: 'shadedLarch';
+  font-size: 45px;
+  margin: 0;
+  padding-top: 20;
+
+}
+
+.speakers-names{
+  font-family: 'shadedLarch';
+  font-size: 25px;
+  margin: 0;
+  padding-top: 10;
+
+}
+
+.img-fluid {
+max-width: 100%;
+height: auto;
+
+}
+
+
+.hover-img:hover {
+}
+
+.img-size {
+width: 350px;
+height: 233.32px;
+
+}
+
+.background-darkblue-footer {
+  text-align: center;
+  background-color: #281B3A;
+  color: white;
+  }

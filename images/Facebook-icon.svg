@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.234" height="33.441" viewBox="0 0 34.234 33.441">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_447" data-name="Path 447" d="M17.117,11.441A16.922,16.922,0,0,0,34.234-5.28,16.922,16.922,0,0,0,17.117-22,16.922,16.922,0,0,0,0-5.28,16.922,16.922,0,0,0,17.117,11.441Z" transform="translate(0 22)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_446" data-name="Path 446" d="M-14,749.952H630.224V-612H-14Z" transform="translate(14 612)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_450" data-name="Path 450" d="M17.454-7.38H14.223V3.281h-4.9V-7.38H7v-3.747H9.328v-2.424c0-1.734.914-4.449,4.939-4.449l3.626.014v3.637H15.262a.95.95,0,0,0-1.038,1.021v2.2h3.658Z" transform="translate(-7 18)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Facebook_icon" data-name="Facebook icon" transform="translate(0 22)">
+    <g id="Group_59" data-name="Group 59" transform="translate(0 -22)" clip-path="url(#clip-path)">
+      <g id="Group_58" data-name="Group 58" transform="translate(-21.785 -896.821)" clip-path="url(#clip-path-2)">
+        <path id="Path_445" data-name="Path 445" d="M-5-27H44.8V21.641H-5Z" transform="translate(19.005 916.221)" fill="#3a5897"/>
+      </g>
+    </g>
+    <g id="Group_61" data-name="Group 61" transform="translate(10.893 -15.92)" clip-path="url(#clip-path-3)">
+      <g id="Group_60" data-name="Group 60" transform="translate(-32.678 -902.901)" clip-path="url(#clip-path-2)">
+        <path id="Path_448" data-name="Path 448" d="M2-23H28.454V13.481H2Z" transform="translate(22.898 918.301)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
